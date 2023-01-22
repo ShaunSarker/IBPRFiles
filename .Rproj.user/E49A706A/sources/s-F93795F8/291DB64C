@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1674427780442.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "285178897",
+    "id" : "291DB64C",
+    "lastKnownWriteTime" : 1674427340,
+    "last_content_update" : 1674427340,
+    "path" : "~/RPractice/FinalExamR.R",
+    "project_path" : "FinalExamR.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
